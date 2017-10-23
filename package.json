@@ -1,0 +1,23 @@
+{
+    "name": "cordova-plugin-irc",
+    "version": "1.0.0",
+    "description": "Irc plugin",
+    "main": "index.js",
+    "directories": {
+      "example": "example"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/pingec/cordova-plugin-irc.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/pingec/cordova-plugin-irc/issues"
+    },
+    "homepage": "https://github.com/pingec/cordova-plugin-irc#readme"
+  }
